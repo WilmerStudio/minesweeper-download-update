@@ -9,5 +9,5 @@ physical Disc Edition:
 Digital Edition: 
    If there is an update, we will send it to you via email
 
-current version: Beta
+current version: Beta;
 No update released.

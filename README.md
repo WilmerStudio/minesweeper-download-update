@@ -7,4 +7,4 @@ physical Disc Edition:
 3. Select the path and download it
 
 Digital Edition: 
-If there is an update, we will send it to you via email
+   If there is an update, we will send it to you via email
